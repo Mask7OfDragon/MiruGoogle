@@ -4,7 +4,7 @@
 
 Hola, presento MiruGoogle, es un sistema sencillo basado en los codigos liberado
 
-[WG Tutoriales](https://www.facebook.com/WG-Tutoriales-116650328958507/) Añadiendo un uso mas sencillo y rapido
+[WG Tutoriales](https://www.facebook.com/WG-Tutoriales-116650328958507/) Añadiendo un uso mas sencillo y rapido. Puedes encontrar un demo del sistema [Pulsando en este texto](http://mask7lover.in/)
 
 
 #### Configuración
