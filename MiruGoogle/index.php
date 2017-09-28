@@ -11,7 +11,7 @@
  * Pagina de Inicio de MikuGoogle
  */
 
-require(dirname(__FILE__) . '/.miru/config.php');
+require(dirname(__FILE__) . '/miru/config.php');
 
 
 /*
